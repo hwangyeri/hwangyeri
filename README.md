@@ -1,5 +1,5 @@
 <!-- ## [@hwangyeri](https://github.com/hwangyeri) -->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcom,%20my%20Git!&fontAlign=65&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcom%20to%20my%20Git!&fontAlign=60&fontAlignY=40&color=gradient)
   
 <div align="center">
 
