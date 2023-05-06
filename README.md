@@ -8,12 +8,12 @@
 <br><p>
 <img src="https://img.shields.io/badge/iOS-080808?style=for-the-badge&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-101010?style=for-the-badge&logo=Swift&logoColor=orange"/>
-<img src="https://img.shields.io/badge/SwiftUI-101010?style=for-the-badge&logo=swift&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Xcode-080808?style=for-the-badge&logo=Xcode&logoColor=deepskyblue"/>
 <p/>
   
 <p>  
-<img src="https://img.shields.io/badge/Xcode-080808?style=for-the-badge&logo=Xcode&logoColor=skyblue"/>
-<img src="https://img.shields.io/badge/visualstudiocode-080808?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
+<img src="https://img.shields.io/badge/SwiftUI-101010?style=for-the-badge&logo=swift&logoColor=skyblue"/>
+<img src="https://img.shields.io/badge/UIKit-080808?style=for-the-badge&logo=swift&logoColor=lightblue">
 <img src="https://img.shields.io/badge/git-080808?style=for-the-badge&logo=git&logoColor=red">
 <img src="https://img.shields.io/badge/github-080808?style=for-the-badge&logo=github&logoColor=white">
 <p/>
